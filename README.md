@@ -1,3 +1,5 @@
+💼 Interview-Prep-Practical
+
 Welcome to the Interview-Prep-Practical repository!
 This repo contains practical coding problems, real-world programming scenarios, and curated interview preparation resources focused on Java, Spring Boot, Data Structures & Algorithms (DSA), and System Design.
 
